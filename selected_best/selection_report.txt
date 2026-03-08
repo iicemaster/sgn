@@ -1,0 +1,35 @@
+Base dir: C:\Users\iicemaster\Desktop\UE_API\latent_result_v4_1\generated\softclean_v6_1_sharp
+Candidates: 32
+
+SKIP DUP | sample_003_softclean_sharp_white.png | score=0.3000
+SKIP DUP | sample_004_softclean_sharp_white.png | score=0.3000
+SKIP DUP | sample_005_softclean_sharp_white.png | score=0.3000
+SKIP DUP | sample_006_softclean_sharp_white.png | score=0.3000
+SKIP DUP | sample_007_softclean_sharp_white.png | score=0.3000
+SKIP DUP | sample_008_softclean_sharp_white.png | score=0.3000
+SKIP DUP | sample_009_softclean_sharp_white.png | score=0.3000
+SKIP DUP | sample_010_softclean_sharp_white.png | score=0.3000
+SKIP DUP | sample_012_softclean_sharp_white.png | score=0.3000
+SKIP DUP | sample_013_softclean_sharp_white.png | score=0.3000
+SKIP DUP | sample_014_softclean_sharp_white.png | score=0.3000
+SKIP DUP | sample_017_softclean_sharp_white.png | score=0.3000
+SKIP DUP | sample_018_softclean_sharp_white.png | score=0.3000
+SKIP DUP | sample_019_softclean_sharp_white.png | score=0.3000
+SKIP DUP | sample_020_softclean_sharp_white.png | score=0.3000
+SKIP DUP | sample_021_softclean_sharp_white.png | score=0.3000
+SKIP DUP | sample_022_softclean_sharp_white.png | score=0.3000
+SKIP DUP | sample_023_softclean_sharp_white.png | score=0.3000
+SKIP DUP | sample_024_softclean_sharp_white.png | score=0.3000
+SKIP DUP | sample_025_softclean_sharp_white.png | score=0.3000
+SKIP DUP | sample_026_softclean_sharp_white.png | score=0.3000
+SKIP DUP | sample_027_softclean_sharp_white.png | score=0.3000
+SKIP DUP | sample_028_softclean_sharp_white.png | score=0.3000
+SKIP DUP | sample_029_softclean_sharp_white.png | score=0.3000
+SKIP DUP | sample_031_softclean_sharp_white.png | score=0.3000
+SKIP DUP | sample_032_softclean_sharp_white.png | score=0.3000
+SKIP DUP | sample_016_softclean_sharp_white.png | score=0.1792
+SKIP DUP | sample_030_softclean_sharp_white.png | score=0.1780
+SKIP DUP | sample_011_softclean_sharp_white.png | score=0.1780
+SKIP DUP | sample_015_softclean_sharp_white.png | score=0.1739
+SKIP DUP | sample_002_softclean_sharp_white.png | score=0.1678
+01. sample_001_softclean_sharp_white.png | score=0.3000 | comps=1 | largest_frac=1.000 | noise=0 | ink=259524 | aspect=1.00 | bbox_fill=0.990
